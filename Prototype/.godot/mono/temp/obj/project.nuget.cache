@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GNeJkQxIlt8=",
+  "success": true,
+  "projectFilePath": "D:\\PROTOTYPE\\FirstPersonController-main\\10-first Person Controller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jerem\\.nuget\\packages\\godot.sourcegenerators\\4.4.1\\godot.sourcegenerators.4.4.1.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\godotsharp\\4.4.1\\godotsharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\godotsharpeditor\\4.4.1\\godotsharpeditor.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

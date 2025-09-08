@@ -1,0 +1,17 @@
+D:\PROTOTYPE\FirstPersonController-main\.godot\mono\temp\bin\Debug\10-first Person Controller.deps.json
+D:\PROTOTYPE\FirstPersonController-main\.godot\mono\temp\bin\Debug\10-first Person Controller.runtimeconfig.json
+D:\PROTOTYPE\FirstPersonController-main\.godot\mono\temp\bin\Debug\10-first Person Controller.dll
+D:\PROTOTYPE\FirstPersonController-main\.godot\mono\temp\bin\Debug\10-first Person Controller.pdb
+D:\PROTOTYPE\FirstPersonController-main\.godot\mono\temp\bin\Debug\GodotSharp.dll
+D:\PROTOTYPE\FirstPersonController-main\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+D:\PROTOTYPE\FirstPersonController-main\.godot\mono\temp\obj\Debug\10-first Person Controller.csproj.AssemblyReference.cache
+D:\PROTOTYPE\FirstPersonController-main\.godot\mono\temp\obj\Debug\10-first Person Controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROTOTYPE\FirstPersonController-main\.godot\mono\temp\obj\Debug\10-first Person Controller.AssemblyInfoInputs.cache
+D:\PROTOTYPE\FirstPersonController-main\.godot\mono\temp\obj\Debug\10-first Person Controller.AssemblyInfo.cs
+D:\PROTOTYPE\FirstPersonController-main\.godot\mono\temp\obj\Debug\10-first Person Controller.csproj.CoreCompileInputs.cache
+D:\PROTOTYPE\FirstPersonController-main\.godot\mono\temp\obj\Debug\10-first.2768F2B4.Up2Date
+D:\PROTOTYPE\FirstPersonController-main\.godot\mono\temp\obj\Debug\10-first Person Controller.dll
+D:\PROTOTYPE\FirstPersonController-main\.godot\mono\temp\obj\Debug\refint\10-first Person Controller.dll
+D:\PROTOTYPE\FirstPersonController-main\.godot\mono\temp\obj\Debug\10-first Person Controller.pdb
+D:\PROTOTYPE\FirstPersonController-main\.godot\mono\temp\obj\Debug\10-first Person Controller.genruntimeconfig.cache
+D:\PROTOTYPE\FirstPersonController-main\.godot\mono\temp\obj\Debug\ref\10-first Person Controller.dll
